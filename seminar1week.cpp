@@ -7,12 +7,12 @@ int sum(int n, int m){
 }
 
 int main(){
-	//1¹ø
+	//1ë²ˆ
 	//cout << "Hello Wolrd" <<endl;
 
 	//return 0;
 
-	//2¹ø
+	//2ë²ˆ
 	//int n;
 	//cin >> n;
 
@@ -25,7 +25,7 @@ int main(){
 
 	//return 0;
 
-	//3¹ø
+	//3ë²ˆ
 	int n,m;
 	cin >> n >> m;
 
