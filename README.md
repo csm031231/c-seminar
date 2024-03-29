@@ -1,1 +1,1 @@
-# c-seminar
+# c++ seminar
